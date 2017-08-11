@@ -1,0 +1,1427 @@
+msgid "pm_lang_en"
+msgstr "English"
+
+msgid "pm_lang_es"
+msgstr "Español"
+
+msgid "pm_language"
+msgstr "Language"
+
+msgid "pm_this_language"
+msgstr "English"
+
+msgid "pm_this_language_in_english"
+msgstr "English"
+
+msgid "pm_notsupported"
+msgstr "Your web browser can not run PosterMyWall's Poster Maker.<br/>Please <a href="http://outdatedbrowser.com" target="_blank">update your browser</a>."
+
+msgid "pm_help"
+msgstr "Help"
+
+msgid "pm_file"
+msgstr "File"
+
+msgid "pm_edit"
+msgstr "Edit"
+
+msgid "pm_insert"
+msgstr "Insert"
+
+msgid "pm_close"
+msgstr "Close"
+
+msgid "pm_ok"
+msgstr "OK"
+
+msgid "pm_new"
+msgstr "New"
+
+msgid "pm_duplicate"
+msgstr "Duplicate"
+
+msgid "pm_duplicate_project"
+msgstr "Duplicate Design"
+
+msgid "pm_open"
+msgstr "Open"
+
+msgid "pm_save"
+msgstr "Save"
+
+msgid "pm_calendar"
+msgstr "Make Calendar"
+
+msgid "pm_contact_support"
+msgstr "Contact Support"
+
+msgid "pm_resize_design"
+msgstr "Resize Design"
+
+msgid "pm_submit_template"
+msgstr "Submit as Template"
+
+msgid "pm_delete"
+msgstr "Delete"
+
+msgid "pm_send_to_back"
+msgstr "Send to Back"
+
+msgid "pm_bring_to_front"
+msgstr "Bring to Front"
+
+msgid "pm_settings"
+msgstr "Settings"
+
+msgid "pm_undo"
+msgstr "Undo"
+
+msgid "pm_redo"
+msgstr "Redo"
+
+msgid "pm_download"
+msgstr "Download"
+
+msgid "pm_share"
+msgstr "Share"
+
+msgid "pm_buyprints"
+msgstr "Buy Prints"
+
+msgid "pm_add_stock_photo"
+msgstr "Add Stock Photo"
+
+msgid "pm_add_p_text"
+msgstr "Add Plain Text"
+
+msgid "pm_add_f_text"
+msgstr "Add Fancy Text"
+
+msgid "pm_add_tear_off_tabs"
+msgstr "Add Tear-Off Tabs"
+
+msgid "pm_title_move_to_front"
+msgstr "Move to Front"
+
+msgid "pm_title_move_to_back"
+msgstr "Move to Back"
+
+msgid "pm_make_a_copy"
+msgstr "Make a Copy"
+
+msgid "pm_title_delete_selected_item"
+msgstr "Delete Selected Item"
+
+msgid "pm_photo"
+msgstr "Photo"
+
+msgid "pm_myphoto"
+msgstr "My Photo"
+
+msgid "pm_myphotos"
+msgstr "My Photos"
+
+msgid "pm_sphoto"
+msgstr "Stock Photo"
+
+msgid "pm_sphotos"
+msgstr "Stock Photos"
+
+msgid "pm_fphoto"
+msgstr "Facebook Photo"
+
+msgid "pm_fphotos"
+msgstr "Facebook Photos"
+
+msgid "pm_text"
+msgstr "Text"
+
+msgid "pm_ptext"
+msgstr "Plain Text"
+
+msgid "pm_fancytext"
+msgstr "Fancy Text"
+
+msgid "pm_tear_off_tabs"
+msgstr "Tear-Off Tabs"
+
+msgid "pm_clipart"
+msgstr "Clipart"
+
+msgid "pm_shape"
+msgstr "Shape"
+
+msgid "pm_shapes_gallery"
+msgstr "Shapes"
+
+msgid "pm_background"
+msgstr "Background"
+
+msgid "pm_layout"
+msgstr "Layout"
+
+msgid "pm_style"
+msgstr "Style"
+
+msgid "pm_size"
+msgstr "Size"
+
+msgid "pm_design"
+msgstr "Design"
+
+msgid "pm_design_size"
+msgstr "Design Size"
+
+msgid "pm_title"
+msgstr "Title"
+
+msgid "pm_description"
+msgstr "Description"
+
+msgid "pm_color"
+msgstr "Color"
+
+msgid "pm_color1"
+msgstr "Color 1"
+
+msgid "pm_color2"
+msgstr "Color 2"
+
+msgid "pm_colors"
+msgstr "Colors"
+
+msgid "pm_send_back"
+msgstr "Send Back"
+
+msgid "pm_send_front"
+msgstr "Send Front"
+
+msgid "pm_copy"
+msgstr "Copy"
+
+msgid "pm_edit_group"
+msgstr "Edit Group"
+
+msgid "pm_delete_items"
+msgstr "Delete Items"
+
+msgid "pm_clear_selection"
+msgstr "Clear Selection"
+
+msgid "pm_left"
+msgstr "Left"
+
+msgid "pm_center"
+msgstr "Center"
+
+msgid "pm_right"
+msgstr "Right"
+
+msgid "pm_top"
+msgstr "Top"
+
+msgid "pm_middle"
+msgstr "Middle"
+
+msgid "pm_bottom"
+msgstr "Bottom"
+
+msgid "pm_lock_item"
+msgstr "Lock in Place"
+
+msgid "pm_item_is_locked"
+msgstr "This item is locked in place. "
+
+msgid "pm_unlock_it1"
+msgstr "Unlock it"
+
+msgid "pm_unlock_it2"
+msgstr "to move it around."
+
+msgid "pm_horizontal_alignment"
+msgstr "Horizontal Alignment"
+
+msgid "pm_vertical_alignment"
+msgstr "Vertical Alignment"
+
+msgid "pm_flip"
+msgstr "Flip"
+
+msgid "pm_flip_horizontally"
+msgstr "Flip horizontally"
+
+msgid "pm_flip_vertically"
+msgstr "Flip vertically"
+
+msgid "pm_alignment_design"
+msgstr "Alignment on Design"
+
+msgid "pm_align_left"
+msgstr "Align to left edge"
+
+msgid "pm_align_right"
+msgstr "Align to right edge"
+
+msgid "pm_align_top"
+msgstr "Align to top edge"
+
+msgid "pm_align_bottom"
+msgstr "Align to bottom edge"
+
+msgid "pm_align_center"
+msgstr "Align to center of design"
+
+msgid "pm_align_center_v"
+msgstr "Align to vertical center"
+
+msgid "pm_align_center_h"
+msgstr "Align to horizontal center"
+
+msgid "pm_spacing"
+msgstr "Spacing"
+
+msgid "pm_horizontal"
+msgstr "Horizontal"
+
+msgid "pm_vertical"
+msgstr "Vertical"
+
+msgid "pm_mask"
+msgstr "Mask"
+
+msgid "pm_replace"
+msgstr "Replace"
+
+msgid "pm_resize"
+msgstr "Resize"
+
+msgid "pm_pick_image_type"
+msgstr "Replace With Image From..."
+
+msgid "pm_effects"
+msgstr "Effects"
+
+msgid "pm_styles"
+msgstr "Styles"
+
+msgid "pm_opacity"
+msgstr "Opacity"
+
+msgid "pm_edgeeffects"
+msgstr "Edge Effects"
+
+msgid "pm_filters"
+msgstr "Filters"
+
+msgid "pm_border"
+msgstr "Border"
+
+msgid "pm_none"
+msgstr "None"
+
+msgid "pm_oval"
+msgstr "Oval"
+
+msgid "pm_rectangle"
+msgstr "Rectangle"
+
+msgid "pm_curved"
+msgstr "Curved"
+
+msgid "pm_scratched"
+msgstr "Scratched"
+
+msgid "pm_tornpaper"
+msgstr "Torn Paper"
+
+msgid "pm_circular"
+msgstr "Circular"
+
+msgid "pm_heart"
+msgstr "Heart"
+
+msgid "pm_curve_amount"
+msgstr "Curve Amount"
+
+msgid "pm_shadow"
+msgstr "Shadow"
+
+msgid "pm_noshadow"
+msgstr "No Shadow"
+
+msgid "pm_lshadow"
+msgstr "Light Shadow"
+
+msgid "pm_sshadow"
+msgstr "Strong Shadow"
+
+msgid "pm_cshadow"
+msgstr "Custom Shadow"
+
+msgid "pm_font"
+msgstr "Font"
+
+msgid "pm_unsupported_font"
+msgstr "Unsupported Font"
+
+msgid "pm_line_height"
+msgstr "Line Height"
+
+msgid "pm_letter_spacing"
+msgstr "Letter Spacing"
+
+msgid "pm_shadowc"
+msgstr "Color"
+
+msgid "pm_angle"
+msgstr "Angle"
+
+msgid "pm_alignment"
+msgstr "Alignment"
+
+msgid "pm_alignment_guides"
+msgstr "Alignment Guides"
+
+msgid "pm_edit_text"
+msgstr "Edit Text"
+
+msgid "pm_no_of_tabs"
+msgstr "No of Tabs"
+
+msgid "pm_separator"
+msgstr "Separator"
+
+msgid "pm_font_terms"
+msgstr "I have permission to use the font(s) for my intended purpose. (See <a href="http://localhost/pmw/index.php/info/termsofuse" target="_blank">User Agreement</a> for more details)"
+
+msgid "pm_font_legal"
+msgstr "If you share an editable version of your poster containing your custom font, text using the custom font will not be editable. We cannot extend rights beyond your use due to its proprietary nature."
+
+msgid "pm_glow"
+msgstr "Glow"
+
+msgid "pm_noglow"
+msgstr "No Glow"
+
+msgid "pm_lglow"
+msgstr "Light Glow"
+
+msgid "pm_sglow"
+msgstr "Strong Glow"
+
+msgid "pm_noborder"
+msgstr "No Border"
+
+msgid "pm_reborder"
+msgstr "Rectangle Border"
+
+msgid "pm_roborder"
+msgstr "Rounded Border"
+
+msgid "pm_nofilter"
+msgstr "No Filter"
+
+msgid "pm_b&w"
+msgstr "Black & White"
+
+msgid "pm_sepia"
+msgstr "Sepia"
+
+msgid "pm_invert"
+msgstr "Invert"
+
+msgid "pm_tint"
+msgstr "Tint"
+
+msgid "pm_brightness"
+msgstr "Brightness"
+
+msgid "pm_multiply"
+msgstr "Multiply"
+
+msgid "pm_text_shape"
+msgstr "Text Shape"
+
+msgid "pm_straight_text"
+msgstr "Straight Text"
+
+msgid "pm_curve_up"
+msgstr "Curve Up"
+
+msgid "pm_curve_down"
+msgstr "Curve Down"
+
+msgid "pm_wave"
+msgstr "Wave"
+
+msgid "pm_wedge_left"
+msgstr "Wedge Left"
+
+msgid "pm_wedge_right"
+msgstr "Wedge Right"
+
+msgid "pm_roof"
+msgstr "Roof"
+
+msgid "pm_curve"
+msgstr "Curve"
+
+msgid "pm_wave_bends"
+msgstr "Wave Bends"
+
+msgid "pm_fill"
+msgstr "Fill"
+
+msgid "pm_line"
+msgstr "Line"
+
+msgid "pm_thickness"
+msgstr "Thickness"
+
+msgid "pm_maintain_ratio"
+msgstr "Maintain aspect ratio"
+
+msgid "pm_no_photos"
+msgstr "You haven't uploaded any photos yet."
+
+msgid "pm_btn_upload_photos"
+msgstr "Upload Photos"
+
+msgid "pm_log_in_for_my_photos"
+msgstr "Login to access your photos."
+
+msgid "pm_choose_from_stock_photos"
+msgstr "Choose from thousands of stock photos."
+
+msgid "pm_move_photo"
+msgstr "Move Photo"
+
+msgid "pm_move_photos"
+msgstr "Move Photos"
+
+msgid "pm_add_photo"
+msgstr "Add Photo"
+
+msgid "pm_add_photos"
+msgstr "Add Photos"
+
+msgid "pm_add_clipart"
+msgstr "Add Clipart"
+
+msgid "pm_remove_selected"
+msgstr "Remove Selected"
+
+msgid "pm_move_selected"
+msgstr "Move Selected"
+
+msgid "pm_add_shape"
+msgstr "Add Shape"
+
+msgid "pm_add_shapes"
+msgstr "Add Shapes"
+
+msgid "pm_select_facebook_album"
+msgstr "Select Facebook Album"
+
+msgid "pm_connecting_to_facebook"
+msgstr "Connecting with Facebook..."
+
+msgid "pm_to_use_fb_photos_login"
+msgstr "To use your Facebook Photos, please login using Facebook."
+
+msgid "pm_add_fancy_text"
+msgstr "Add Fancy Text"
+
+msgid "pm_change_background"
+msgstr "Change Background"
+
+msgid "pm_no_backgrounds_of_orientation"
+msgstr "There are no backgrounds in this category for your design orientation."
+
+msgid "pm_apply_background"
+msgstr "Apply Background"
+
+msgid "pm_apply"
+msgstr "Apply"
+
+msgid "pm_photo_upload"
+msgstr "Uploads"
+
+msgid "pm_photo_stock"
+msgstr "Stock Photos"
+
+msgid "pm_manual_load_more"
+msgstr "Load More Photos"
+
+msgid "pm_load_more_error"
+msgstr "There seems to be an issue retrieving more photos. Please reload this page and try again."
+
+msgid "pm_search_stock_photography"
+msgstr "Search Stock Photography"
+
+msgid "pm_start_search"
+msgstr "Start searching now..."
+
+msgid "pm_search"
+msgstr "Search"
+
+msgid "pm_new_search"
+msgstr "New Search"
+
+msgid "pm_searching"
+msgstr "Searching..."
+
+msgid "pm_search_results_for"
+msgstr "Search Results for "
+
+msgid "pm_premium_stock_backgrounds"
+msgstr "Premium Stock Backgrounds"
+
+msgid "pm_photo_stock_getty_desc"
+msgstr "Downloads with Getty Images' stock cost $2 extra - Large watermark on free download"
+
+msgid "pm_photo_stock_getty_license"
+msgstr "All photos under Getty Premium Stock license"
+
+msgid "pm_photo_stock_free"
+msgstr "Free - No changes to price or watermark"
+
+msgid "pm_photo_stock_public_domain_license"
+msgstr "All photos under a Public Domain Dedication license"
+
+msgid "pm_photo_stock_creative_commons_license"
+msgstr "All photos under a Creative Commons Attribution 2.0 Generic license"
+
+msgid "pm_facebook"
+msgstr "Facebook"
+
+msgid "pm_your_facebook_albums"
+msgstr "Your Facebook Albums"
+
+msgid "pm_powered_by"
+msgstr "Powered by "
+
+msgid "pm_search_clipart"
+msgstr "Search Clipart"
+
+msgid "pm_fancy_text"
+msgstr "Fancy Text"
+
+msgid "pm_select_an_effect"
+msgstr "Select an Effect"
+
+msgid "pm_select_a_font"
+msgstr "Select a Font"
+
+msgid "pm_preview"
+msgstr "Preview"
+
+msgid "pm_add_text_update_preview"
+msgstr "add text to update preview"
+
+msgid "pm_solid_color"
+msgstr "Solid Color"
+
+msgid "pm_gradient"
+msgstr "Gradient"
+
+msgid "pm_image"
+msgstr "Image"
+
+msgid "pm_background_stock"
+msgstr "Stock Photo Background"
+
+msgid "pm_upload_background"
+msgstr "Upload Background"
+
+msgid "pm_custom_background"
+msgstr "Custom Background"
+
+msgid "pm_uploading_image"
+msgstr "Uploading Your Image..."
+
+msgid "pm_upload_font"
+msgstr "Upload Font"
+
+msgid "pm_upload_fonts"
+msgstr "UPLOAD FONTS"
+
+msgid "pm_manage_font"
+msgstr "My Fonts"
+
+msgid "pm_remove_font"
+msgstr "Remove Selected Fonts"
+
+msgid "pm_browse_backgrounds"
+msgstr "Browse Backgrounds"
+
+msgid "pm_search_for_stock_images"
+msgstr "Search for Stock Images"
+
+msgid "pm_upload_an_image"
+msgstr "Upload an Image"
+
+msgid "pm_solid_colors"
+msgstr "Solid Colors"
+
+msgid "pm_gradient_colors"
+msgstr "Gradient Colors"
+
+msgid "pm_text_disabled_custom_font"
+msgstr "This text is not editable because it uses a font uploaded by someone else. Change font to edit this text."
+
+msgid "pm_solid_color_background"
+msgstr "Solid Color Background"
+
+msgid "pm_pick_background_type"
+msgstr "Select a Type of Background"
+
+msgid "pm_custom_background_color"
+msgstr "Custom background color"
+
+msgid "pm_pick_from_palette"
+msgstr "Pick from palette"
+
+msgid "pm_shading_colors"
+msgstr "Shading colors"
+
+msgid "pm_gradient_type"
+msgstr "Gradient Type"
+
+msgid "pm_type"
+msgstr "Type"
+
+msgid "pm_transparent"
+msgstr "Transparent"
+
+msgid "pm_linear"
+msgstr "Linear"
+
+msgid "pm_radial"
+msgstr "Radial"
+
+msgid "pm_pattern"
+msgstr "Pattern"
+
+msgid "pm_linear_gradient"
+msgstr "Linear Gradient"
+
+msgid "pm_radial_gradient"
+msgstr "Radial Gradient"
+
+msgid "pm_print_quality"
+msgstr "Print Quality"
+
+msgid "pm_selected_image_too_small"
+msgstr "The image you've selected is too small to be printed at high quality for some print sizes"
+
+msgid "pm_select_another_image"
+msgstr "Select Another"
+
+msgid "pm_upload_another_image"
+msgstr "Upload Another"
+
+msgid "pm_crop"
+msgstr "Crop"
+
+msgid "pm_dont_crop"
+msgstr "Don't Crop"
+
+msgid "pm_square"
+msgstr "Square"
+
+msgid "pm_4:3"
+msgstr "4:3"
+
+msgid "pm_original"
+msgstr "Original"
+
+msgid "pm_free"
+msgstr "Free"
+
+msgid "pm_loading"
+msgstr "Loading..."
+
+msgid "pm_resizing"
+msgstr "Resizing..."
+
+msgid "pm_mask_photos"
+msgstr "Mask Your Photos to Remove the Background"
+
+msgid "pm_zoom_in"
+msgstr "Zoom In"
+
+msgid "pm_zoom_out"
+msgstr "Zoom Out"
+
+msgid "pm_show_preview"
+msgstr "Show Preview"
+
+msgid "pm_hide_preview"
+msgstr "Hide Preview"
+
+msgid "pm_joints_curved"
+msgstr "Joints: Curved"
+
+msgid "pm_joints_straight"
+msgstr "Joints: Straight"
+
+msgid "pm_color_pop_on"
+msgstr "Color Pop: On"
+
+msgid "pm_color_pop_off"
+msgstr "Color Pop: Off"
+
+msgid "pm_remove_mask"
+msgstr "Remove Mask"
+
+msgid "pm_done"
+msgstr "Done"
+
+msgid "pm_download_my_project"
+msgstr "Download Design"
+
+msgid "pm_download_link_emailed_within_hour"
+msgstr "A download link will be emailed to you within 30 minutes of purchase."
+
+msgid "pm_available_as_jpg_pdf"
+msgstr "Available as JPG or PDF files in most common sizes."
+
+msgid "pm_all_prices_USD"
+msgstr "All prices in U.S. Dollars."
+
+msgid "pm_learn_about_download_formats"
+msgstr "Learn more about download formats and sizes"
+
+msgid "pm_poster_quality_download"
+msgstr "Poster Quality Download"
+
+msgid "pm_photo_quality_download"
+msgstr "Photo Quality Download"
+
+msgid "pm_basic_quality_download"
+msgstr "Basic Quality Download"
+
+msgid "pm_no_watermark"
+msgstr "No Watermark"
+
+msgid "pm_large_watermark"
+msgstr "Large Watermark"
+
+msgid "pm_enter_promo_code"
+msgstr "Enter Promo Code"
+
+msgid "pm_buy_now"
+msgstr "Buy Now"
+
+msgid "pm_poster_quality_download_desc"
+msgstr "Huge, super detailed image. Great for wall size posters from the print shop of your choice."
+
+msgid "pm_photo_quality_download_desc"
+msgstr "Sharper image than free download. Great for ink jet printers. Photo quality up to 8 x 12 inches."
+
+msgid "pm_basic_quality_download_desc"
+msgstr "Great for posting online and basic quality prints."
+
+msgid "pm_basic_quality_web_download_desc"
+msgstr "Basic quality web graphics for personal use."
+
+msgid "pm_keep_downloads_free"
+msgstr "Keep downloads free!"
+
+msgid "pm_like_on_facebook"
+msgstr "Like us on Facebook"
+
+msgid "pm_prints_unavailable"
+msgstr "Prints Not Available"
+
+msgid "pm_thank_us_tell_friends"
+msgstr "Thank us by telling your friends"
+
+msgid "pm_addthis_title_to_share"
+msgstr "The Best Online Custom Poster and Photo Collage Maker. Free Downloads!"
+
+msgid "pm_image_download_instructions"
+msgstr "Right click (or long press) the image and select "Save Image As" to download it"
+
+msgid "pm_image_download_instructions_mac_safari"
+msgstr "Right click (or hold Control and click) the image and select "Save Image As" to download it"
+
+msgid "pm_poster_saved"
+msgstr "Your Design Has Been Saved"
+
+msgid "pm_save_conflict_save"
+msgstr "Save anyway"
+
+msgid "pm_save_conflict_undo"
+msgstr "Undo changes"
+
+msgid "pm_share_design_with_friends"
+msgstr "Share this design with friends!"
+
+msgid "pm_error_title"
+msgstr "Something went wrong"
+
+msgid "pm_auth_title"
+msgstr "Please log in to proceed"
+
+msgid "pm_fb_login"
+msgstr "Log in with Facebook"
+
+msgid "pm_or"
+msgstr "OR"
+
+msgid "pm_email_address"
+msgstr "email address"
+
+msgid "pm_password"
+msgstr "password"
+
+msgid "pm_invalid_credentials"
+msgstr "Invalid username or password."
+
+msgid "pm_notify_promotions"
+msgstr "Notify me of promotions and updates"
+
+msgid "pm_agree_to_legal"
+msgstr "By clicking Sign Up you acknowledge that <strong>you are age 13 or older</strong> and agree to "
+
+msgid "pm_agreement_name"
+msgstr "PosterMyWall's User Agreement"
+
+msgid "pm_password_confirm"
+msgstr "confirm password"
+
+msgid "pm_forgot_password"
+msgstr "forgot password"
+
+msgid "pm_log_in"
+msgstr "Log In"
+
+msgid "pm_create_new_account"
+msgstr "Create New Account"
+
+msgid "pm_sign_up"
+msgstr "Sign Up"
+
+msgid "pm_student_login"
+msgstr "Student Login"
+
+msgid "pm_teachers"
+msgstr "Teachers"
+
+msgid "pm_classroom_info"
+msgstr "Learn more about classroom accounts"
+
+msgid "pm_enter_project_name"
+msgstr "Enter the class project name"
+
+msgid "pm_project_name"
+msgstr "Project Name"
+
+msgid "pm_getty_license_agreement"
+msgstr "Getty Premium Stock License Agreement"
+
+msgid "pm_btn_i_agree"
+msgstr "I Agree"
+
+msgid "pm_btn_cancel"
+msgstr "Cancel"
+
+msgid "pm_start_from_scratch"
+msgstr "Start from scratch"
+
+msgid "pm_kickstart_design"
+msgstr "Kickstart your design with one of our templates"
+
+msgid "pm_blank_canvas"
+msgstr "Blank Canvas"
+
+msgid "pm_search_for_inspiration"
+msgstr "Search for inspiration"
+
+msgid "pm_back_to_welcome_wizard"
+msgstr "Back to Create a New Design"
+
+msgid "pm_poster_purchased_header"
+msgstr "Warning: This design might be in production"
+
+msgid "pm_poster_purchased_content"
+msgstr "You recently ordered this design. It might still be in production, and any changes you make may or may not appear in the final order."
+
+msgid "pm_poster_purchased_content_question"
+msgstr "Is there an issue with your purchase?"
+
+msgid "pm_continue_anyway"
+msgstr "Continue anyway"
+
+msgid "pm_there_is_issue"
+msgstr "There's an issue"
+
+msgid "pm_resize_purchased_poster_content"
+msgstr "You recently ordered this design. It might still be in production, you must make a copy of this design before resizing."
+
+msgid "pm_designers_make_money"
+msgstr "Designers - make money on PosterMyWall!"
+
+msgid "pm_learn_more"
+msgstr "Learn more..."
+
+msgid "pm_custom"
+msgstr "Custom"
+
+msgid "pm_use_custom_dimensions"
+msgstr "Use Custom Dimensions..."
+
+msgid "pm_loading_tips_1"
+msgstr "For ultra-precision, you can move items on your design with arrow keys."
+
+msgid "pm_loading_tips_2"
+msgstr "Drag-drop images from your computer to quickly add them to the design."
+
+msgid "pm_loading_tips_3"
+msgstr "Tap "Shift+S" on your keyboard to save your design."
+
+msgid "pm_loading_tips_4"
+msgstr "Use "Fancy Text" to create curved text and 3D text effects."
+
+msgid "pm_loading_tips_5"
+msgstr "Use "Add Stock Photos" to access millions of free and premium stock photos."
+
+msgid "pm_loading_tips_6"
+msgstr "Search our template library to find just the right design to customize."
+
+msgid "pm_loading_tips_7"
+msgstr "Use File > Duplicate to create a copy of the design you\'re editing."
+
+msgid "pm_loading_tips_8"
+msgstr "Use "Add Clipart" to access millions of royalty free illustrations and cartoons."
+
+msgid "pm_loading_tips_9"
+msgstr "Edit your design with others; invite collaborators through the Share option."
+
+msgid "pm_loading_tips_10"
+msgstr "---"
+
+msgid "pm_width"
+msgstr "width"
+
+msgid "pm_height"
+msgstr "height"
+
+msgid "pm_share_collection"
+msgstr "Share Collection"
+
+msgid "pm_send_invitations"
+msgstr "Send Invitations"
+
+msgid "pm_manage_contributors"
+msgstr "Manage Contributors"
+
+msgid "pm_remove_contributor"
+msgstr "Remove contributor"
+
+msgid "pm_invitation_link"
+msgstr "Invitation link"
+
+msgid "pm_how_this_works"
+msgstr "How this works:"
+
+msgid "pm_share_collection_instructions"
+msgstr "This link allows anyone to be added as a contributor to this collection. Use the form below to email invitations or paste the above link in a chat window."
+
+msgid "pm_send_invitation_emails_to"
+msgstr "Send invitation emails to"
+
+msgid "pm_enter_recipient_email"
+msgstr "Enter recipients' email and press enter"
+
+msgid "pm_enter_personal_message"
+msgstr "Enter a personal message (optional)"
+
+msgid "pm_please_wait"
+msgstr "Please wait ..."
+
+msgid "pm_graphic_item_list"
+msgstr "Graphic Item List"
+
+msgid "pm_remove_selected_graphic_item"
+msgstr "Remove selected graphic items"
+
+msgid "pm_select_graphic_item"
+msgstr "Select graphic item"
+
+msgid "pm_share_collection_intro"
+msgstr "Allow others to <strong>add</strong> and <strong>use</strong> photos in this collection."
+
+msgid "pm_collection_share_message_field_placeholder"
+msgstr "e.g. Lets use these stock photos for the marketing project."
+
+msgid "pm_no_contributors"
+msgstr "This collection is not shared with anyone. Allow others to add and use photos in this collection."
+
+msgid "pm_free!"
+msgstr "Free!"
+
+msgid "pm_select"
+msgstr "Select"
+
+msgid "pm_solid_line"
+msgstr "Solid Line"
+
+msgid "pm_dashed_line"
+msgstr "Dashed Line"
+
+msgid "pm_btn_back_to_my_photos"
+msgstr "Back to My Photos"
+
+msgid "pm_create_collection"
+msgstr "New Collection"
+
+msgid "pm_refresh_invitation_link_tooltip"
+msgstr "Regenerate new invitation link. Prevents anyone from using older links."
+
+msgid "pm_select_a_category"
+msgstr "Select a category"
+
+msgid "pm_select_category_or_search"
+msgstr "Please select a category or use the search."
+
+msgid "pm_select_album"
+msgstr "Please select an album"
+
+msgid "pm_remove"
+msgstr "Remove"
+
+msgid "pm_move"
+msgstr "Move"
+
+msgid "pm_font_incompatible_with_language"
+msgstr "This language is not supported by this font."
+
+msgid "pm_use_recommended_font"
+msgstr "Use recommended font"
+
+msgid "pm_search_templates_or_browse_categories"
+msgstr "Search for a template or browse categories"
+
+msgid "pm_all_sizes"
+msgstr "All Sizes"
+
+msgid "pm_go_to_home_page"
+msgstr "Go to home page"
+
+msgid "pm_back"
+msgstr "Back"
+
+msgid "pm_categories_match_search_term"
+msgstr "Categories matching your search term:"
+
+msgid "pm_add_schedule"
+msgstr "Add Schedule"
+
+msgid "pm_add_menu"
+msgstr "Add Menu"
+
+msgid "pm_saturation"
+msgstr "Saturation"
+
+msgid "pm_contrast"
+msgstr "Contrast"
+
+msgid "pm_add_table"
+msgstr "Add Table"
+
+msgid "pm_schedule"
+msgstr "Schedule"
+
+msgid "pm_table"
+msgstr "Table"
+
+msgid "pm_content"
+msgstr "Content"
+
+msgid "pm_edit_content"
+msgstr "Edit Content"
+
+msgid "pm_apply_changes"
+msgstr "Apply Changes"
+
+msgid "pm_layout_styles"
+msgstr "Layout Styles"
+
+msgid "pm_alternate"
+msgstr "Alternate"
+
+msgid "pm_highlighted_items"
+msgstr "Highlighted Items"
+
+msgid "pm_row_color"
+msgstr "Row Color"
+
+msgid "pm_text_color"
+msgstr "Text Color"
+
+msgid "pm_horizontal_spacing"
+msgstr "Horizontal Spacing"
+
+msgid "pm_vertical_spacing"
+msgstr "Vertical Spacing"
+
+msgid "pm_layout_1"
+msgstr "Table"
+
+msgid "pm_layout_3"
+msgstr "Sports Schedule"
+
+msgid "pm_select_layout"
+msgstr "Select Layout"
+
+msgid "pm_enter_data"
+msgstr "Enter Data"
+
+msgid "pm_details"
+msgstr "Details"
+
+msgid "pm_title_delete_selected_items"
+msgstr "Delete Selected Items"
+
+msgid "pm_make_copies"
+msgstr "Copy Items"
+
+msgid "pm_layout_2"
+msgstr "Concert Schedule - Left"
+
+msgid "pm_layout_6"
+msgstr "Concert Schedule - Right"
+
+msgid "pm_layout_7"
+msgstr "Concert Schedule - Center"
+
+msgid "pm_layout_4"
+msgstr "Slanted Sports Schedule"
+
+msgid "pm_date_styles"
+msgstr "Date Styles"
+
+msgid "pm_save_conflict"
+msgstr "Someone updated the design while you were editing"
+
+msgid "pm_font_1"
+msgstr "Font 1"
+
+msgid "pm_font_2"
+msgstr "Font 2"
+
+msgid "pm_add_my_photos"
+msgstr "Add from My Photos"
+
+msgid "pm_add_from_facebook"
+msgstr "Add from Facebook"
+
+msgid "pm_from_my_photos"
+msgstr "From My Photos"
+
+msgid "pm_from_facebook"
+msgstr "From Facebook"
+
+msgid "pm_add_from_google_drive"
+msgstr "Add from Google Drive"
+
+msgid "pm_from_google_drive"
+msgstr "From Google Drive"
+
+msgid "pm_google_photo"
+msgstr "Google Drive Photo"
+
+msgid "pm_google_photos"
+msgstr "Google Drive Photos"
+
+msgid "pm_add_from_dropbox"
+msgstr "Add from Dropbox"
+
+msgid "pm_from_dropbox"
+msgstr "From Dropbox"
+
+msgid "pm_dropbox_photo"
+msgstr "Dropbox Photo"
+
+msgid "pm_dropbox_photos"
+msgstr "Dropbox Photos"
+
+msgid "pm_browse_dropbox"
+msgstr "Browse Dropbox"
+
+msgid "pm_google_login"
+msgstr "Log in with Google"
+
+msgid "pm_icons_styles"
+msgstr "Icons Styles"
+
+msgid "pm_menu"
+msgstr "Menu"
+
+msgid "pm_trim"
+msgstr "Trim"
+
+msgid "pm_trim_your_video"
+msgstr "Trim Your Video"
+
+msgid "pm_end_trim_time"
+msgstr "End Time"
+
+msgid "pm_start_trim_time"
+msgstr "Start Time"
+
+msgid "pm_all_menu_items"
+msgstr "All Menu Items"
+
+msgid "pm_add_new_menu_item"
+msgstr "Add New Menu Item"
+
+msgid "pm_selected_menu_items"
+msgstr "Selected Menu Items"
+
+msgid "pm_add_select_menu_items"
+msgstr "Add/Select Menu Items"
+
+msgid "pm_filter_menu_items"
+msgstr "Filter Menu Items"
+
+msgid "pm_delete_item"
+msgstr "Delete Item"
+
+msgid "pm_add_menu_item"
+msgstr "Add Menu Item"
+
+msgid "pm_name"
+msgstr "Name"
+
+msgid "pm_price"
+msgstr "Price"
+
+msgid "pm_save_and_add_new"
+msgstr "Save & Add New"
+
+msgid "pm_select_menu_item_from_left"
+msgstr "Select a Menu Item From The Left"
+
+msgid "pm_text_styles"
+msgstr "Text Styles"
+
+msgid "pm_drag_to_set_order"
+msgstr "Drag to Set Order"
+
+msgid "pm_crop_your_image"
+msgstr "Crop Image"
+
+msgid "pm_at_least_characters"
+msgstr "at least 8 characters"
+
+msgid "pm_video"
+msgstr "Video"
+
+msgid "pm_my_videos"
+msgstr "My Videos"
+
+msgid "pm_add_my_videos"
+msgstr "Add from My Videos"
+
+msgid "pm_add_stock_video"
+msgstr "Add Stock Video"
+
+msgid "pm_no_videos"
+msgstr "You haven't uploaded any videos yet."
+
+msgid "pm_btn_upload_videos"
+msgstr "Upload Videos"
+
+msgid "pm_log_in_for_my_videos"
+msgstr "Login to access your videos."
+
+msgid "pm_choose_from_stock_videos"
+msgstr "Choose from thousands of stock videos."
+
+msgid "pm_move_video"
+msgstr "Move Video"
+
+msgid "pm_move_videos"
+msgstr "Move Videos"
+
+msgid "pm_add_video"
+msgstr "Add Video"
+
+msgid "pm_add_videos"
+msgstr "Add Videos"
+
+msgid "pm_video_stock_getty_desc"
+msgstr "Downloads with Getty Videos have a watermark on free download"
+
+msgid "pm_video_stock_getty_license"
+msgstr "All videos under Getty Premium Stock license"
+
+msgid "pm_search_stock_videos"
+msgstr "Search Stock Videos"
+
+msgid "pm_play"
+msgstr "play"
+
+msgid "pm_pause"
+msgstr "pause"
+
+msgid "pm_icons"
+msgstr "Icons:"
+
+msgid "pm_sizes"
+msgstr "Sizes"
+
+msgid "pm_add_ons"
+msgstr "Add-ons"
+
+msgid "pm_width_capitalized"
+msgstr "Width"
+
+msgid "pm_pick_video_type"
+msgstr "Replace With Video From..."
+
+msgid "pm_stock_videos"
+msgstr "Stock Videos"
+
+msgid "pm_video_limit"
+msgstr "Video Limit Reached"
+
+msgid "pm_video_limit_message"
+msgstr "For now, you can only have 1 video in a design. We are working on video playlists so sit tight.<br/><br/>Click replace if you want to replace the current video with this one."
+
+msgid "pm_video_duration_reached"
+msgstr "Video Duration Reached"
+
+msgid "pm_video_duration_reached_message"
+msgstr "You can't have video with more than 10 minute duration in a design. Click trim to trim it within the limit."
+
+msgid "pm_stretch"
+msgstr "Stretch"
+
+msgid "pm_stretch_horizontally"
+msgstr "Stretch to design width"
+
+msgid "pm_stretch_vertically"
+msgstr "Stretch to design height"
+
+msgid "pm_centered"
+msgstr "Centered"
+
+msgid "pm_classic"
+msgstr "Classic"
+
+msgid "pm_classic_names_only"
+msgstr "Classic (Names only)"
+
+msgid "pm_table_style"
+msgstr "Table"
+
+msgid "pm_modern_style"
+msgstr "Modern"
+
+msgid "pm_classic_without_dots"
+msgstr "Classic (Without Dots)"
