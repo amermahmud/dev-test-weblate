@@ -1,5 +1,0 @@
-msgid "Let’s make the web multilingual."
-msgstr "Machen wir das Internet mehrsprachig."
-
-msgid "Testing"
-msgstr "Testen"
