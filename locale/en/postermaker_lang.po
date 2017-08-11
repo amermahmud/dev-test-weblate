@@ -15,7 +15,7 @@ msgstr ""
 
 #: $lang['pm_language']
 msgid "Language"
-msgstr ""
+msgstr "blahlbahlablahl"
 
 #: $lang['pm_this_language']
 msgctxt "$lang['pm_this_language']"
