@@ -1,0 +1,1978 @@
+#. extracted from /postermywall/svn/trunk/server/system/application/language/en/postermaker_lang.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-11 12:09+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.4\n"
+
+#: $lang['pm_language']
+msgid "Language"
+msgstr ""
+
+#: $lang['pm_this_language']
+msgctxt "$lang['pm_this_language']"
+msgid "English"
+msgstr ""
+
+#: $lang['pm_this_language_in_english']
+msgctxt "$lang['pm_this_language_in_english']"
+msgid "English"
+msgstr ""
+
+#: $lang['pm_notsupported']
+msgid ""
+"Your web browser can not run PosterMyWall's Poster Maker.<br/>Please <a href="
+"\"http://outdatedbrowser.com\" target=\"_blank\">update your browser</a>."
+msgstr ""
+
+#. // Navigation
+#: $lang['pm_help']
+msgid "Help"
+msgstr ""
+
+#: $lang['pm_file']
+msgid "File"
+msgstr ""
+
+#: $lang['pm_edit']
+msgid "Edit"
+msgstr ""
+
+#: $lang['pm_insert']
+msgid "Insert"
+msgstr ""
+
+#: $lang['pm_close']
+msgid "Close"
+msgstr ""
+
+#: $lang['pm_ok']
+msgid "OK"
+msgstr ""
+
+#. // File menu
+#: $lang['pm_new']
+msgid "New"
+msgstr ""
+
+#: $lang['pm_duplicate']
+msgid "Duplicate"
+msgstr ""
+
+#: $lang['pm_duplicate_project']
+msgid "Duplicate Design"
+msgstr ""
+
+#: $lang['pm_open']
+msgid "Open"
+msgstr ""
+
+#: $lang['pm_save']
+msgid "Save"
+msgstr ""
+
+#: $lang['pm_calendar']
+msgid "Make Calendar"
+msgstr ""
+
+#: $lang['pm_contact_support']
+msgid "Contact Support"
+msgstr ""
+
+#: $lang['pm_resize_design']
+msgid "Resize Design"
+msgstr ""
+
+#: $lang['pm_submit_template']
+msgid "Submit as Template"
+msgstr ""
+
+#: $lang['pm_delete']
+msgid "Delete"
+msgstr ""
+
+#: $lang['pm_send_to_back']
+msgid "Send to Back"
+msgstr ""
+
+#: $lang['pm_bring_to_front']
+msgid "Bring to Front"
+msgstr ""
+
+#: $lang['pm_settings']
+msgid "Settings"
+msgstr ""
+
+#. // Edit menu
+#: $lang['pm_undo']
+msgid "Undo"
+msgstr ""
+
+#: $lang['pm_redo']
+msgid "Redo"
+msgstr ""
+
+#: $lang['pm_download']
+msgid "Download"
+msgstr ""
+
+#: $lang['pm_share']
+msgid "Share"
+msgstr ""
+
+#: $lang['pm_buyprints']
+msgid "Buy Prints"
+msgstr ""
+
+#. // Left Toolbar
+#: $lang['pm_add_stock_photo']
+msgid "Add Stock Photo"
+msgstr ""
+
+#: $lang['pm_add_p_text']
+msgid "Add Plain Text"
+msgstr ""
+
+#: $lang['pm_add_f_text']
+msgctxt "$lang['pm_add_f_text']"
+msgid "Add Fancy Text"
+msgstr ""
+
+#: $lang['pm_add_tear_off_tabs']
+msgid "Add Tear-Off Tabs"
+msgstr ""
+
+#. // text for the 'title' property of HTML elements
+#: $lang['pm_title_move_to_front']
+msgid "Move to Front"
+msgstr ""
+
+#: $lang['pm_title_move_to_back']
+msgid "Move to Back"
+msgstr ""
+
+#: $lang['pm_make_a_copy']
+msgid "Make a Copy"
+msgstr ""
+
+#: $lang['pm_title_delete_selected_item']
+msgid "Delete Selected Item"
+msgstr ""
+
+#: $lang['pm_photo']
+msgid "Photo"
+msgstr ""
+
+#: $lang['pm_myphoto']
+msgid "My Photo"
+msgstr ""
+
+#: $lang['pm_myphotos']
+msgid "My Photos"
+msgstr ""
+
+#: $lang['pm_sphoto']
+msgid "Stock Photo"
+msgstr ""
+
+#: $lang['pm_sphotos']
+msgctxt "$lang['pm_sphotos']"
+msgid "Stock Photos"
+msgstr ""
+
+#: $lang['pm_fphoto']
+msgid "Facebook Photo"
+msgstr ""
+
+#: $lang['pm_fphotos']
+msgid "Facebook Photos"
+msgstr ""
+
+#: $lang['pm_text']
+msgid "Text"
+msgstr ""
+
+#: $lang['pm_ptext']
+msgid "Plain Text"
+msgstr ""
+
+#: $lang['pm_fancytext']
+msgctxt "$lang['pm_fancytext']"
+msgid "Fancy Text"
+msgstr ""
+
+#: $lang['pm_tear_off_tabs']
+msgid "Tear-Off Tabs"
+msgstr ""
+
+#: $lang['pm_clipart']
+msgid "Clipart"
+msgstr ""
+
+#: $lang['pm_shape']
+msgid "Shape"
+msgstr ""
+
+#: $lang['pm_shapes_gallery']
+msgid "Shapes"
+msgstr ""
+
+#: $lang['pm_background']
+msgid "Background"
+msgstr ""
+
+#. // Right Contextual sidebar
+#: $lang['pm_layout']
+msgid "Layout"
+msgstr ""
+
+#: $lang['pm_style']
+msgid "Style"
+msgstr ""
+
+#: $lang['pm_size']
+msgid "Size"
+msgstr ""
+
+#: $lang['pm_design']
+msgid "Design"
+msgstr ""
+
+#: $lang['pm_design_size']
+msgid "Design Size"
+msgstr ""
+
+#: $lang['pm_title']
+msgid "Title"
+msgstr ""
+
+#: $lang['pm_description']
+msgid "Description"
+msgstr ""
+
+#: $lang['pm_color']
+msgctxt "$lang['pm_color']"
+msgid "Color"
+msgstr ""
+
+#: $lang['pm_color1']
+msgid "Color 1"
+msgstr ""
+
+#: $lang['pm_color2']
+msgid "Color 2"
+msgstr ""
+
+#: $lang['pm_colors']
+msgid "Colors"
+msgstr ""
+
+#: $lang['pm_send_back']
+msgid "Send Back"
+msgstr ""
+
+#: $lang['pm_send_front']
+msgid "Send Front"
+msgstr ""
+
+#: $lang['pm_copy']
+msgid "Copy"
+msgstr ""
+
+#: $lang['pm_edit_group']
+msgid "Edit Group"
+msgstr ""
+
+#: $lang['pm_delete_items']
+msgid "Delete Items"
+msgstr ""
+
+#: $lang['pm_clear_selection']
+msgid "Clear Selection"
+msgstr ""
+
+#: $lang['pm_left']
+msgid "Left"
+msgstr ""
+
+#: $lang['pm_center']
+msgid "Center"
+msgstr ""
+
+#: $lang['pm_right']
+msgid "Right"
+msgstr ""
+
+#: $lang['pm_top']
+msgid "Top"
+msgstr ""
+
+#: $lang['pm_middle']
+msgid "Middle"
+msgstr ""
+
+#: $lang['pm_bottom']
+msgid "Bottom"
+msgstr ""
+
+#: $lang['pm_lock_item']
+msgid "Lock in Place"
+msgstr ""
+
+#: $lang['pm_item_is_locked']
+msgid "This item is locked in place. "
+msgstr ""
+
+#: $lang['pm_unlock_it1']
+msgid "Unlock it"
+msgstr ""
+
+#: $lang['pm_unlock_it2']
+msgid "to move it around."
+msgstr ""
+
+#: $lang['pm_horizontal_alignment']
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: $lang['pm_vertical_alignment']
+msgid "Vertical Alignment"
+msgstr ""
+
+#: $lang['pm_flip']
+msgid "Flip"
+msgstr ""
+
+#: $lang['pm_flip_horizontally']
+msgid "Flip horizontally"
+msgstr ""
+
+#: $lang['pm_flip_vertically']
+msgid "Flip vertically"
+msgstr ""
+
+#: $lang['pm_alignment_design']
+msgid "Alignment on Design"
+msgstr ""
+
+#: $lang['pm_align_left']
+msgid "Align to left edge"
+msgstr ""
+
+#: $lang['pm_align_right']
+msgid "Align to right edge"
+msgstr ""
+
+#: $lang['pm_align_top']
+msgid "Align to top edge"
+msgstr ""
+
+#: $lang['pm_align_bottom']
+msgid "Align to bottom edge"
+msgstr ""
+
+#: $lang['pm_align_center']
+msgid "Align to center of design"
+msgstr ""
+
+#: $lang['pm_align_center_v']
+msgid "Align to vertical center"
+msgstr ""
+
+#: $lang['pm_align_center_h']
+msgid "Align to horizontal center"
+msgstr ""
+
+#: $lang['pm_spacing']
+msgid "Spacing"
+msgstr ""
+
+#: $lang['pm_horizontal']
+msgid "Horizontal"
+msgstr ""
+
+#: $lang['pm_vertical']
+msgid "Vertical"
+msgstr ""
+
+#: $lang['pm_mask']
+msgid "Mask"
+msgstr ""
+
+#: $lang['pm_replace']
+msgid "Replace"
+msgstr ""
+
+#: $lang['pm_resize']
+msgid "Resize"
+msgstr ""
+
+#: $lang['pm_pick_image_type']
+msgid "Replace With Image From..."
+msgstr ""
+
+#: $lang['pm_effects']
+msgid "Effects"
+msgstr ""
+
+#: $lang['pm_styles']
+msgid "Styles"
+msgstr ""
+
+#: $lang['pm_opacity']
+msgid "Opacity"
+msgstr ""
+
+#: $lang['pm_edgeeffects']
+msgid "Edge Effects"
+msgstr ""
+
+#: $lang['pm_filters']
+msgid "Filters"
+msgstr ""
+
+#: $lang['pm_border']
+msgid "Border"
+msgstr ""
+
+#: $lang['pm_none']
+msgid "None"
+msgstr ""
+
+#: $lang['pm_oval']
+msgid "Oval"
+msgstr ""
+
+#: $lang['pm_rectangle']
+msgid "Rectangle"
+msgstr ""
+
+#: $lang['pm_curved']
+msgid "Curved"
+msgstr ""
+
+#: $lang['pm_scratched']
+msgid "Scratched"
+msgstr ""
+
+#: $lang['pm_tornpaper']
+msgid "Torn Paper"
+msgstr ""
+
+#: $lang['pm_circular']
+msgid "Circular"
+msgstr ""
+
+#: $lang['pm_heart']
+msgid "Heart"
+msgstr ""
+
+#: $lang['pm_curve_amount']
+msgid "Curve Amount"
+msgstr ""
+
+#: $lang['pm_shadow']
+msgid "Shadow"
+msgstr ""
+
+#: $lang['pm_noshadow']
+msgid "No Shadow"
+msgstr ""
+
+#: $lang['pm_lshadow']
+msgid "Light Shadow"
+msgstr ""
+
+#: $lang['pm_sshadow']
+msgid "Strong Shadow"
+msgstr ""
+
+#: $lang['pm_cshadow']
+msgid "Custom Shadow"
+msgstr ""
+
+#: $lang['pm_font']
+msgid "Font"
+msgstr ""
+
+#: $lang['pm_unsupported_font']
+msgid "Unsupported Font"
+msgstr ""
+
+#: $lang['pm_line_height']
+msgid "Line Height"
+msgstr ""
+
+#: $lang['pm_letter_spacing']
+msgid "Letter Spacing"
+msgstr ""
+
+#: $lang['pm_shadowc']
+msgctxt "$lang['pm_shadowc']"
+msgid "Color"
+msgstr ""
+
+#: $lang['pm_angle']
+msgid "Angle"
+msgstr ""
+
+#: $lang['pm_alignment']
+msgid "Alignment"
+msgstr ""
+
+#: $lang['pm_alignment_guides']
+msgid "Alignment Guides"
+msgstr ""
+
+#: $lang['pm_edit_text']
+msgid "Edit Text"
+msgstr ""
+
+#: $lang['pm_no_of_tabs']
+msgid "No of Tabs"
+msgstr ""
+
+#: $lang['pm_separator']
+msgid "Separator"
+msgstr ""
+
+#: $lang['pm_font_terms']
+msgid ""
+"I have permission to use the font(s) for my intended purpose. (See <a href=\""
+"' . site_url('info/termsofuse') . '\" target=\"_blank\">User Agreement</a> "
+"for more details)"
+msgstr ""
+
+#: $lang['pm_font_legal']
+msgid ""
+"If you share an editable version of your poster containing your custom font, "
+"text using the custom font will not be editable. We cannot extend rights "
+"beyond your use due to its proprietary nature."
+msgstr ""
+
+#: $lang['pm_glow']
+msgid "Glow"
+msgstr ""
+
+#: $lang['pm_noglow']
+msgid "No Glow"
+msgstr ""
+
+#: $lang['pm_lglow']
+msgid "Light Glow"
+msgstr ""
+
+#: $lang['pm_sglow']
+msgid "Strong Glow"
+msgstr ""
+
+#: $lang['pm_noborder']
+msgid "No Border"
+msgstr ""
+
+#: $lang['pm_reborder']
+msgid "Rectangle Border"
+msgstr ""
+
+#: $lang['pm_roborder']
+msgid "Rounded Border"
+msgstr ""
+
+#: $lang['pm_nofilter']
+msgid "No Filter"
+msgstr ""
+
+#: $lang['pm_b&w']
+msgid "Black & White"
+msgstr ""
+
+#: $lang['pm_sepia']
+msgid "Sepia"
+msgstr ""
+
+#: $lang['pm_invert']
+msgid "Invert"
+msgstr ""
+
+#: $lang['pm_tint']
+msgid "Tint"
+msgstr ""
+
+#: $lang['pm_brightness']
+msgid "Brightness"
+msgstr ""
+
+#: $lang['pm_multiply']
+msgid "Multiply"
+msgstr ""
+
+#: $lang['pm_text_shape']
+msgid "Text Shape"
+msgstr ""
+
+#: $lang['pm_straight_text']
+msgid "Straight Text"
+msgstr ""
+
+#: $lang['pm_curve_up']
+msgid "Curve Up"
+msgstr ""
+
+#: $lang['pm_curve_down']
+msgid "Curve Down"
+msgstr ""
+
+#: $lang['pm_wave']
+msgid "Wave"
+msgstr ""
+
+#: $lang['pm_wedge_left']
+msgid "Wedge Left"
+msgstr ""
+
+#: $lang['pm_wedge_right']
+msgid "Wedge Right"
+msgstr ""
+
+#: $lang['pm_roof']
+msgid "Roof"
+msgstr ""
+
+#: $lang['pm_curve']
+msgid "Curve"
+msgstr ""
+
+#: $lang['pm_wave_bends']
+msgid "Wave Bends"
+msgstr ""
+
+#: $lang['pm_fill']
+msgid "Fill"
+msgstr ""
+
+#: $lang['pm_line']
+msgid "Line"
+msgstr ""
+
+#: $lang['pm_thickness']
+msgid "Thickness"
+msgstr ""
+
+#: $lang['pm_maintain_ratio']
+msgid "Maintain aspect ratio"
+msgstr ""
+
+#: $lang['pm_no_photos']
+msgid "You haven't uploaded any photos yet."
+msgstr ""
+
+#: $lang['pm_btn_upload_photos']
+msgid "Upload Photos"
+msgstr ""
+
+#: $lang['pm_log_in_for_my_photos']
+msgid "Login to access your photos."
+msgstr ""
+
+#: $lang['pm_choose_from_stock_photos']
+msgid "Choose from thousands of stock photos."
+msgstr ""
+
+#: $lang['pm_move_photo']
+msgid "Move Photo"
+msgstr ""
+
+#: $lang['pm_move_photos']
+msgid "Move Photos"
+msgstr ""
+
+#: $lang['pm_add_photo']
+msgid "Add Photo"
+msgstr ""
+
+#: $lang['pm_add_photos']
+msgid "Add Photos"
+msgstr ""
+
+#: $lang['pm_add_clipart']
+msgid "Add Clipart"
+msgstr ""
+
+#: $lang['pm_remove_selected']
+msgid "Remove Selected"
+msgstr ""
+
+#: $lang['pm_move_selected']
+msgid "Move Selected"
+msgstr ""
+
+#: $lang['pm_add_shape']
+msgid "Add Shape"
+msgstr ""
+
+#: $lang['pm_add_shapes']
+msgid "Add Shapes"
+msgstr ""
+
+#: $lang['pm_select_facebook_album']
+msgid "Select Facebook Album"
+msgstr ""
+
+#: $lang['pm_connecting_to_facebook']
+msgid "Connecting with Facebook..."
+msgstr ""
+
+#: $lang['pm_to_use_fb_photos_login']
+msgid "To use your Facebook Photos, please login using Facebook."
+msgstr ""
+
+#: $lang['pm_add_fancy_text']
+msgctxt "$lang['pm_add_fancy_text']"
+msgid "Add Fancy Text"
+msgstr ""
+
+#: $lang['pm_change_background']
+msgid "Change Background"
+msgstr ""
+
+#: $lang['pm_no_backgrounds_of_orientation']
+msgid "There are no backgrounds in this category for your design orientation."
+msgstr ""
+
+#: $lang['pm_apply_background']
+msgid "Apply Background"
+msgstr ""
+
+#: $lang['pm_apply']
+msgid "Apply"
+msgstr ""
+
+#: $lang['pm_photo_upload']
+msgid "Uploads"
+msgstr ""
+
+#: $lang['pm_photo_stock']
+msgctxt "$lang['pm_photo_stock']"
+msgid "Stock Photos"
+msgstr ""
+
+#: $lang['pm_manual_load_more']
+msgid "Load More Photos"
+msgstr ""
+
+#: $lang['pm_load_more_error']
+msgid ""
+"There seems to be an issue retrieving more photos. Please reload this page "
+"and try again."
+msgstr ""
+
+#: $lang['pm_search_stock_photography']
+msgid "Search Stock Photography"
+msgstr ""
+
+#: $lang['pm_start_search']
+msgid "Start searching now..."
+msgstr ""
+
+#: $lang['pm_search']
+msgid "Search"
+msgstr ""
+
+#: $lang['pm_new_search']
+msgid "New Search"
+msgstr ""
+
+#: $lang['pm_searching']
+msgid "Searching..."
+msgstr ""
+
+#: $lang['pm_search_results_for']
+msgid "Search Results for "
+msgstr ""
+
+#: $lang['pm_premium_stock_backgrounds']
+msgid "Premium Stock Backgrounds"
+msgstr ""
+
+#: $lang['pm_photo_stock_getty_desc']
+msgid ""
+"Downloads with Getty Images' stock cost $2 extra - Large watermark on free "
+"download"
+msgstr ""
+
+#: $lang['pm_photo_stock_getty_license']
+msgid "All photos under Getty Premium Stock license"
+msgstr ""
+
+#: $lang['pm_photo_stock_free']
+msgid "Free - No changes to price or watermark"
+msgstr ""
+
+#: $lang['pm_photo_stock_public_domain_license']
+msgid "All photos under a Public Domain Dedication license"
+msgstr ""
+
+#: $lang['pm_photo_stock_creative_commons_license']
+msgid "All photos under a Creative Commons Attribution 2.0 Generic license"
+msgstr ""
+
+#: $lang['pm_facebook']
+msgid "Facebook"
+msgstr ""
+
+#: $lang['pm_your_facebook_albums']
+msgid "Your Facebook Albums"
+msgstr ""
+
+#: $lang['pm_powered_by']
+msgid "Powered by "
+msgstr ""
+
+#: $lang['pm_search_clipart']
+msgid "Search Clipart"
+msgstr ""
+
+#: $lang['pm_fancy_text']
+msgctxt "$lang['pm_fancy_text']"
+msgid "Fancy Text"
+msgstr ""
+
+#: $lang['pm_select_an_effect']
+msgid "Select an Effect"
+msgstr ""
+
+#: $lang['pm_select_a_font']
+msgid "Select a Font"
+msgstr ""
+
+#: $lang['pm_preview']
+msgid "Preview"
+msgstr ""
+
+#: $lang['pm_add_text_update_preview']
+msgid "add text to update preview"
+msgstr ""
+
+#. // Background types
+#: $lang['pm_solid_color']
+msgid "Solid Color"
+msgstr ""
+
+#: $lang['pm_gradient']
+msgid "Gradient"
+msgstr ""
+
+#: $lang['pm_image']
+msgid "Image"
+msgstr ""
+
+#: $lang['pm_background_stock']
+msgid "Stock Photo Background"
+msgstr ""
+
+#: $lang['pm_upload_background']
+msgid "Upload Background"
+msgstr ""
+
+#: $lang['pm_custom_background']
+msgid "Custom Background"
+msgstr ""
+
+#: $lang['pm_uploading_image']
+msgid "Uploading Your Image..."
+msgstr ""
+
+#: $lang['pm_upload_font']
+msgid "Upload Font"
+msgstr ""
+
+#: $lang['pm_upload_fonts']
+msgid "UPLOAD FONTS"
+msgstr ""
+
+#: $lang['pm_manage_font']
+msgid "My Fonts"
+msgstr ""
+
+#: $lang['pm_remove_font']
+msgid "Remove Selected Fonts"
+msgstr ""
+
+#: $lang['pm_browse_backgrounds']
+msgid "Browse Backgrounds"
+msgstr ""
+
+#: $lang['pm_search_for_stock_images']
+msgid "Search for Stock Images"
+msgstr ""
+
+#: $lang['pm_upload_an_image']
+msgid "Upload an Image"
+msgstr ""
+
+#: $lang['pm_solid_colors']
+msgid "Solid Colors"
+msgstr ""
+
+#: $lang['pm_gradient_colors']
+msgid "Gradient Colors"
+msgstr ""
+
+#: $lang['pm_text_disabled_custom_font']
+msgid ""
+"This text is not editable because it uses a font uploaded by someone else. "
+"Change font to edit this text."
+msgstr ""
+
+#: $lang['pm_solid_color_background']
+msgid "Solid Color Background"
+msgstr ""
+
+#: $lang['pm_pick_background_type']
+msgid "Select a Type of Background"
+msgstr ""
+
+#: $lang['pm_custom_background_color']
+msgid "Custom background color"
+msgstr ""
+
+#: $lang['pm_pick_from_palette']
+msgid "Pick from palette"
+msgstr ""
+
+#: $lang['pm_shading_colors']
+msgid "Shading colors"
+msgstr ""
+
+#: $lang['pm_gradient_type']
+msgid "Gradient Type"
+msgstr ""
+
+#: $lang['pm_type']
+msgid "Type"
+msgstr ""
+
+#: $lang['pm_transparent']
+msgid "Transparent"
+msgstr ""
+
+#: $lang['pm_linear']
+msgid "Linear"
+msgstr ""
+
+#: $lang['pm_radial']
+msgid "Radial"
+msgstr ""
+
+#: $lang['pm_pattern']
+msgid "Pattern"
+msgstr ""
+
+#: $lang['pm_linear_gradient']
+msgid "Linear Gradient"
+msgstr ""
+
+#: $lang['pm_radial_gradient']
+msgid "Radial Gradient"
+msgstr ""
+
+#: $lang['pm_print_quality']
+msgid "Print Quality"
+msgstr ""
+
+#: $lang['pm_selected_image_too_small']
+msgid ""
+"The image you've selected is too small to be printed at high quality for "
+"some print sizes"
+msgstr ""
+
+#: $lang['pm_select_another_image']
+msgid "Select Another"
+msgstr ""
+
+#: $lang['pm_upload_another_image']
+msgid "Upload Another"
+msgstr ""
+
+#: $lang['pm_crop']
+msgid "Crop"
+msgstr ""
+
+#: $lang['pm_dont_crop']
+msgid "Don't Crop"
+msgstr ""
+
+#: $lang['pm_square']
+msgid "Square"
+msgstr ""
+
+#: $lang['pm_4:3']
+msgid "4:3"
+msgstr ""
+
+#: $lang['pm_original']
+msgid "Original"
+msgstr ""
+
+#: $lang['pm_free']
+msgid "Free"
+msgstr ""
+
+#: $lang['pm_loading']
+msgid "Loading..."
+msgstr ""
+
+#: $lang['pm_resizing']
+msgid "Resizing..."
+msgstr ""
+
+#: $lang['pm_mask_photos']
+msgid "Mask Your Photos to Remove the Background"
+msgstr ""
+
+#: $lang['pm_zoom_in']
+msgid "Zoom In"
+msgstr ""
+
+#: $lang['pm_zoom_out']
+msgid "Zoom Out"
+msgstr ""
+
+#: $lang['pm_show_preview']
+msgid "Show Preview"
+msgstr ""
+
+#: $lang['pm_hide_preview']
+msgid "Hide Preview"
+msgstr ""
+
+#: $lang['pm_joints_curved']
+msgid "Joints: Curved"
+msgstr ""
+
+#: $lang['pm_joints_straight']
+msgid "Joints: Straight"
+msgstr ""
+
+#: $lang['pm_color_pop_on']
+msgid "Color Pop: On"
+msgstr ""
+
+#: $lang['pm_color_pop_off']
+msgid "Color Pop: Off"
+msgstr ""
+
+#: $lang['pm_remove_mask']
+msgid "Remove Mask"
+msgstr ""
+
+#: $lang['pm_done']
+msgid "Done"
+msgstr ""
+
+#: $lang['pm_download_my_project']
+msgid "Download Design"
+msgstr ""
+
+#: $lang['pm_download_link_emailed_within_hour']
+msgid "A download link will be emailed to you within 30 minutes of purchase."
+msgstr ""
+
+#: $lang['pm_available_as_jpg_pdf']
+msgid "Available as JPG or PDF files in most common sizes."
+msgstr ""
+
+#: $lang['pm_all_prices_USD']
+msgid "All prices in U.S. Dollars."
+msgstr ""
+
+#: $lang['pm_learn_about_download_formats']
+msgid "Learn more about download formats and sizes"
+msgstr ""
+
+#: $lang['pm_poster_quality_download']
+msgid "Poster Quality Download"
+msgstr ""
+
+#: $lang['pm_photo_quality_download']
+msgid "Photo Quality Download"
+msgstr ""
+
+#: $lang['pm_basic_quality_download']
+msgid "Basic Quality Download"
+msgstr ""
+
+#: $lang['pm_no_watermark']
+msgid "No Watermark"
+msgstr ""
+
+#: $lang['pm_large_watermark']
+msgid "Large Watermark"
+msgstr ""
+
+#: $lang['pm_enter_promo_code']
+msgid "Enter Promo Code"
+msgstr ""
+
+#: $lang['pm_buy_now']
+msgid "Buy Now"
+msgstr ""
+
+#: $lang['pm_poster_quality_download_desc']
+msgid ""
+"Huge, super detailed image. Great for wall size posters from the print shop "
+"of your choice."
+msgstr ""
+
+#: $lang['pm_photo_quality_download_desc']
+msgid ""
+"Sharper image than free download. Great for ink jet printers. Photo quality "
+"up to 8 x 12 inches."
+msgstr ""
+
+#: $lang['pm_basic_quality_download_desc']
+msgid "Great for posting online and basic quality prints."
+msgstr ""
+
+#: $lang['pm_basic_quality_web_download_desc']
+msgid "Basic quality web graphics for personal use."
+msgstr ""
+
+#: $lang['pm_keep_downloads_free']
+msgid "Keep downloads free!"
+msgstr ""
+
+#: $lang['pm_like_on_facebook']
+msgid "Like us on Facebook"
+msgstr ""
+
+#: $lang['pm_prints_unavailable']
+msgid "Prints Not Available"
+msgstr ""
+
+#: $lang['pm_thank_us_tell_friends']
+msgid "Thank us by telling your friends"
+msgstr ""
+
+#: $lang['pm_addthis_title_to_share']
+msgid "The Best Online Custom Poster and Photo Collage Maker. Free Downloads!"
+msgstr ""
+
+#: $lang['pm_image_download_instructions']
+msgid ""
+"Right click (or long press) the image and select \"Save Image As\" to "
+"download it"
+msgstr ""
+
+#: $lang['pm_image_download_instructions_mac_safari']
+msgid ""
+"Right click (or hold Control and click) the image and select \"Save Image "
+"As\" to download it"
+msgstr ""
+
+#: $lang['pm_poster_saved']
+msgid "Your Design Has Been Saved"
+msgstr ""
+
+#: $lang['pm_save_conflict_save']
+msgid "Save anyway"
+msgstr ""
+
+#: $lang['pm_save_conflict_undo']
+msgid "Undo changes"
+msgstr ""
+
+#: $lang['pm_share_design_with_friends']
+msgid "Share this design with friends!"
+msgstr ""
+
+#: $lang['pm_error_title']
+msgid "Something went wrong"
+msgstr ""
+
+#: $lang['pm_auth_title']
+msgid "Please log in to proceed"
+msgstr ""
+
+#: $lang['pm_fb_login']
+msgid "Log in with Facebook"
+msgstr ""
+
+#: $lang['pm_or']
+msgid "OR"
+msgstr ""
+
+#: $lang['pm_email_address']
+msgid "email address"
+msgstr ""
+
+#: $lang['pm_password']
+msgid "password"
+msgstr ""
+
+#: $lang['pm_invalid_credentials']
+msgid "Invalid username or password."
+msgstr ""
+
+#: $lang['pm_notify_promotions']
+msgid "Notify me of promotions and updates"
+msgstr ""
+
+#: $lang['pm_agree_to_legal']
+msgid ""
+"By clicking Sign Up you acknowledge that <strong>you are age 13 or "
+"older</strong> and agree to "
+msgstr ""
+
+#: $lang['pm_agreement_name']
+msgid "PosterMyWall's User Agreement"
+msgstr ""
+
+#: $lang['pm_password_confirm']
+msgid "confirm password"
+msgstr ""
+
+#: $lang['pm_forgot_password']
+msgid "forgot password"
+msgstr ""
+
+#: $lang['pm_log_in']
+msgid "Log In"
+msgstr ""
+
+#: $lang['pm_create_new_account']
+msgid "Create New Account"
+msgstr ""
+
+#: $lang['pm_sign_up']
+msgid "Sign Up"
+msgstr ""
+
+#: $lang['pm_student_login']
+msgid "Student Login"
+msgstr ""
+
+#: $lang['pm_teachers']
+msgid "Teachers"
+msgstr ""
+
+#: $lang['pm_classroom_info']
+msgid "Learn more about classroom accounts"
+msgstr ""
+
+#: $lang['pm_enter_project_name']
+msgid "Enter the class project name"
+msgstr ""
+
+#: $lang['pm_project_name']
+msgid "Project Name"
+msgstr ""
+
+#: $lang['pm_getty_license_agreement']
+msgid "Getty Premium Stock License Agreement"
+msgstr ""
+
+#: $lang['pm_btn_i_agree']
+msgid "I Agree"
+msgstr ""
+
+#: $lang['pm_btn_cancel']
+msgid "Cancel"
+msgstr ""
+
+#: $lang['pm_start_from_scratch']
+msgid "Start from scratch"
+msgstr ""
+
+#: $lang['pm_kickstart_design']
+msgid "Kickstart your design with one of our templates"
+msgstr ""
+
+#: $lang['pm_blank_canvas']
+msgid "Blank Canvas"
+msgstr ""
+
+#: $lang['pm_search_for_inspiration']
+msgid "Search for inspiration"
+msgstr ""
+
+#: $lang['pm_back_to_welcome_wizard']
+msgid "Back to Create a New Design"
+msgstr ""
+
+#: $lang['pm_poster_purchased_header']
+msgid "Warning: This design might be in production"
+msgstr ""
+
+#: $lang['pm_poster_purchased_content']
+msgid ""
+"You recently ordered this design. It might still be in production, and any "
+"changes you make may or may not appear in the final order."
+msgstr ""
+
+#: $lang['pm_poster_purchased_content_question']
+msgid "Is there an issue with your purchase?"
+msgstr ""
+
+#: $lang['pm_continue_anyway']
+msgid "Continue anyway"
+msgstr ""
+
+#: $lang['pm_there_is_issue']
+msgid "There's an issue"
+msgstr ""
+
+#: $lang['pm_resize_purchased_poster_content']
+msgid ""
+"You recently ordered this design. It might still be in production, you must "
+"make a copy of this design before resizing."
+msgstr ""
+
+#: $lang['pm_designers_make_money']
+msgid "Designers - make money on PosterMyWall!"
+msgstr ""
+
+#: $lang['pm_learn_more']
+msgid "Learn more..."
+msgstr ""
+
+#: $lang['pm_custom']
+msgid "Custom"
+msgstr ""
+
+#: $lang['pm_use_custom_dimensions']
+msgid "Use Custom Dimensions..."
+msgstr ""
+
+#. // Loading tips strings are sent to JavaScript, where they will be wrapped in single quotes ', so single quotes in the tips needs to be escaped, i.e. you\'re
+#: $lang['pm_loading_tips_1']
+msgid "For ultra-precision, you can move items on your design with arrow keys."
+msgstr ""
+
+#: $lang['pm_loading_tips_2']
+msgid "Drag-drop images from your computer to quickly add them to the design."
+msgstr ""
+
+#: $lang['pm_loading_tips_3']
+msgid "Tap \"Shift+S\" on your keyboard to save your design."
+msgstr ""
+
+#: $lang['pm_loading_tips_4']
+msgid "Use \"Fancy Text\" to create curved text and 3D text effects."
+msgstr ""
+
+#: $lang['pm_loading_tips_5']
+msgid ""
+"Use \"Add Stock Photos\" to access millions of free and premium stock photos."
+msgstr ""
+
+#: $lang['pm_loading_tips_6']
+msgid "Search our template library to find just the right design to customize."
+msgstr ""
+
+#: $lang['pm_loading_tips_7']
+msgid "Use File > Duplicate to create a copy of the design you\\'re editing."
+msgstr ""
+
+#: $lang['pm_loading_tips_8']
+msgid ""
+"Use \"Add Clipart\" to access millions of royalty free illustrations and "
+"cartoons."
+msgstr ""
+
+#: $lang['pm_loading_tips_9']
+msgid ""
+"Edit your design with others; invite collaborators through the Share option."
+msgstr ""
+
+#. The last tip contents must be "---". If more tips are added, increment the value otherwise tips after '---' will be ignored.
+#: $lang['pm_loading_tips_10']
+msgid "---"
+msgstr ""
+
+#: $lang['pm_width']
+msgid "width"
+msgstr ""
+
+#: $lang['pm_height']
+msgid "height"
+msgstr ""
+
+#: $lang['pm_share_collection']
+msgid "Share Collection"
+msgstr ""
+
+#: $lang['pm_send_invitations']
+msgid "Send Invitations"
+msgstr ""
+
+#: $lang['pm_manage_contributors']
+msgid "Manage Contributors"
+msgstr ""
+
+#: $lang['pm_remove_contributor']
+msgid "Remove contributor"
+msgstr ""
+
+#: $lang['pm_invitation_link']
+msgid "Invitation link"
+msgstr ""
+
+#: $lang['pm_how_this_works']
+msgid "How this works:"
+msgstr ""
+
+#: $lang['pm_share_collection_instructions']
+msgid ""
+"This link allows anyone to be added as a contributor to this collection. Use "
+"the form below to email invitations or paste the above link in a chat window."
+msgstr ""
+
+#: $lang['pm_send_invitation_emails_to']
+msgid "Send invitation emails to"
+msgstr ""
+
+#: $lang['pm_enter_recipient_email']
+msgid "Enter recipients' email and press enter"
+msgstr ""
+
+#: $lang['pm_enter_personal_message']
+msgid "Enter a personal message (optional)"
+msgstr ""
+
+#: $lang['pm_please_wait']
+msgid "Please wait ..."
+msgstr ""
+
+#: $lang['pm_graphic_item_list']
+msgid "Graphic Item List"
+msgstr ""
+
+#: $lang['pm_remove_selected_graphic_item']
+msgid "Remove selected graphic items"
+msgstr ""
+
+#: $lang['pm_select_graphic_item']
+msgid "Select graphic item"
+msgstr ""
+
+#: $lang['pm_share_collection_intro']
+msgid ""
+"Allow others to <strong>add</strong> and <strong>use</strong> photos in this "
+"collection."
+msgstr ""
+
+#: $lang['pm_collection_share_message_field_placeholder']
+msgid "e.g. Lets use these stock photos for the marketing project."
+msgstr ""
+
+#: $lang['pm_no_contributors']
+msgid ""
+"This collection is not shared with anyone. Allow others to add and use "
+"photos in this collection."
+msgstr ""
+
+#: $lang['pm_free!']
+msgid "Free!"
+msgstr ""
+
+#: $lang['pm_select']
+msgid "Select"
+msgstr ""
+
+#: $lang['pm_solid_line']
+msgid "Solid Line"
+msgstr ""
+
+#: $lang['pm_dashed_line']
+msgid "Dashed Line"
+msgstr ""
+
+#: $lang['pm_btn_back_to_my_photos']
+msgid "Back to My Photos"
+msgstr ""
+
+#: $lang['pm_create_collection']
+msgid "New Collection"
+msgstr ""
+
+#: $lang['pm_refresh_invitation_link_tooltip']
+msgid "Regenerate new invitation link. Prevents anyone from using older links."
+msgstr ""
+
+#: $lang['pm_select_a_category']
+msgid "Select a category"
+msgstr ""
+
+#: $lang['pm_select_category_or_search']
+msgid "Please select a category or use the search."
+msgstr ""
+
+#: $lang['pm_select_album']
+msgid "Please select an album"
+msgstr ""
+
+#: $lang['pm_remove']
+msgid "Remove"
+msgstr ""
+
+#: $lang['pm_move']
+msgid "Move"
+msgstr ""
+
+#: $lang['pm_font_incompatible_with_language']
+msgid "This language is not supported by this font."
+msgstr ""
+
+#: $lang['pm_use_recommended_font']
+msgid "Use recommended font"
+msgstr ""
+
+#: $lang['pm_search_templates_or_browse_categories']
+msgid "Search for a template or browse categories"
+msgstr ""
+
+#: $lang['pm_all_sizes']
+msgid "All Sizes"
+msgstr ""
+
+#: $lang['pm_go_to_home_page']
+msgid "Go to home page"
+msgstr ""
+
+#: $lang['pm_back']
+msgid "Back"
+msgstr ""
+
+#: $lang['pm_categories_match_search_term']
+msgid "Categories matching your search term:"
+msgstr ""
+
+#: $lang['pm_add_schedule']
+msgid "Add Schedule"
+msgstr ""
+
+#: $lang['pm_add_menu']
+msgid "Add Menu"
+msgstr ""
+
+#: $lang['pm_saturation']
+msgid "Saturation"
+msgstr ""
+
+#: $lang['pm_contrast']
+msgid "Contrast"
+msgstr ""
+
+#: $lang['pm_add_table']
+msgid "Add Table"
+msgstr ""
+
+#: $lang['pm_schedule']
+msgid "Schedule"
+msgstr ""
+
+#: $lang['pm_table']
+msgctxt "$lang['pm_table']"
+msgid "Table"
+msgstr ""
+
+#: $lang['pm_content']
+msgid "Content"
+msgstr ""
+
+#: $lang['pm_edit_content']
+msgid "Edit Content"
+msgstr ""
+
+#: $lang['pm_apply_changes']
+msgid "Apply Changes"
+msgstr ""
+
+#: $lang['pm_layout_styles']
+msgid "Layout Styles"
+msgstr ""
+
+#: $lang['pm_alternate']
+msgid "Alternate"
+msgstr ""
+
+#: $lang['pm_highlighted_items']
+msgid "Highlighted Items"
+msgstr ""
+
+#: $lang['pm_row_color']
+msgid "Row Color"
+msgstr ""
+
+#: $lang['pm_text_color']
+msgid "Text Color"
+msgstr ""
+
+#: $lang['pm_horizontal_spacing']
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: $lang['pm_vertical_spacing']
+msgid "Vertical Spacing"
+msgstr ""
+
+#: $lang['pm_layout_1']
+msgctxt "$lang['pm_layout_1']"
+msgid "Table"
+msgstr ""
+
+#: $lang['pm_layout_3']
+msgid "Sports Schedule"
+msgstr ""
+
+#: $lang['pm_select_layout']
+msgid "Select Layout"
+msgstr ""
+
+#: $lang['pm_enter_data']
+msgid "Enter Data"
+msgstr ""
+
+#: $lang['pm_details']
+msgid "Details"
+msgstr ""
+
+#: $lang['pm_title_delete_selected_items']
+msgid "Delete Selected Items"
+msgstr ""
+
+#: $lang['pm_make_copies']
+msgid "Copy Items"
+msgstr ""
+
+#: $lang['pm_layout_2']
+msgid "Concert Schedule - Left"
+msgstr ""
+
+#: $lang['pm_layout_6']
+msgid "Concert Schedule - Right"
+msgstr ""
+
+#: $lang['pm_layout_7']
+msgid "Concert Schedule - Center"
+msgstr ""
+
+#: $lang['pm_layout_4']
+msgid "Slanted Sports Schedule"
+msgstr ""
+
+#: $lang['pm_date_styles']
+msgid "Date Styles"
+msgstr ""
+
+#: $lang['pm_save_conflict']
+msgid "Someone updated the design while you were editing"
+msgstr ""
+
+#: $lang['pm_font_1']
+msgid "Font 1"
+msgstr ""
+
+#: $lang['pm_font_2']
+msgid "Font 2"
+msgstr ""
+
+#: $lang['pm_add_my_photos']
+msgid "Add from My Photos"
+msgstr ""
+
+#: $lang['pm_add_from_facebook']
+msgid "Add from Facebook"
+msgstr ""
+
+#: $lang['pm_from_my_photos']
+msgid "From My Photos"
+msgstr ""
+
+#: $lang['pm_from_facebook']
+msgid "From Facebook"
+msgstr ""
+
+#: $lang['pm_add_from_google_drive']
+msgid "Add from Google Drive"
+msgstr ""
+
+#: $lang['pm_from_google_drive']
+msgid "From Google Drive"
+msgstr ""
+
+#: $lang['pm_google_photo']
+msgid "Google Drive Photo"
+msgstr ""
+
+#: $lang['pm_google_photos']
+msgid "Google Drive Photos"
+msgstr ""
+
+#: $lang['pm_add_from_dropbox']
+msgid "Add from Dropbox"
+msgstr ""
+
+#: $lang['pm_from_dropbox']
+msgid "From Dropbox"
+msgstr ""
+
+#: $lang['pm_dropbox_photo']
+msgid "Dropbox Photo"
+msgstr ""
+
+#: $lang['pm_dropbox_photos']
+msgid "Dropbox Photos"
+msgstr ""
+
+#: $lang['pm_browse_dropbox']
+msgid "Browse Dropbox"
+msgstr ""
+
+#: $lang['pm_google_login']
+msgid "Log in with Google"
+msgstr ""
+
+#: $lang['pm_icons_styles']
+msgid "Icons Styles"
+msgstr ""
+
+#: $lang['pm_menu']
+msgid "Menu"
+msgstr ""
+
+#: $lang['pm_trim']
+msgid "Trim"
+msgstr ""
+
+#: $lang['pm_trim_your_video']
+msgid "Trim Your Video"
+msgstr ""
+
+#: $lang['pm_end_trim_time']
+msgid "End Time"
+msgstr ""
+
+#: $lang['pm_start_trim_time']
+msgid "Start Time"
+msgstr ""
+
+#: $lang['pm_all_menu_items']
+msgid "All Menu Items"
+msgstr ""
+
+#: $lang['pm_add_new_menu_item']
+msgid "Add New Menu Item"
+msgstr ""
+
+#: $lang['pm_selected_menu_items']
+msgid "Selected Menu Items"
+msgstr ""
+
+#: $lang['pm_add_select_menu_items']
+msgid "Add/Select Menu Items"
+msgstr ""
+
+#: $lang['pm_filter_menu_items']
+msgid "Filter Menu Items"
+msgstr ""
+
+#: $lang['pm_delete_item']
+msgid "Delete Item"
+msgstr ""
+
+#: $lang['pm_add_menu_item']
+msgid "Add Menu Item"
+msgstr ""
+
+#: $lang['pm_name']
+msgid "Name"
+msgstr ""
+
+#: $lang['pm_price']
+msgid "Price"
+msgstr ""
+
+#: $lang['pm_save_and_add_new']
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang['pm_select_menu_item_from_left']
+msgid "Select a Menu Item From The Left"
+msgstr ""
+
+#: $lang['pm_text_styles']
+msgid "Text Styles"
+msgstr ""
+
+#: $lang['pm_drag_to_set_order']
+msgid "Drag to Set Order"
+msgstr ""
+
+#: $lang['pm_crop_your_image']
+msgid "Crop Image"
+msgstr ""
+
+#: $lang['pm_at_least_characters']
+msgid "at least ' . Accounts::MIN_PASSWORD_LENGTH . ' characters"
+msgstr ""
+
+#: $lang['pm_video']
+msgid "Video"
+msgstr ""
+
+#: $lang['pm_my_videos']
+msgid "My Videos"
+msgstr ""
+
+#: $lang['pm_add_my_videos']
+msgid "Add from My Videos"
+msgstr ""
+
+#: $lang['pm_add_stock_video']
+msgid "Add Stock Video"
+msgstr ""
+
+#: $lang['pm_no_videos']
+msgid "You haven't uploaded any videos yet."
+msgstr ""
+
+#: $lang['pm_btn_upload_videos']
+msgid "Upload Videos"
+msgstr ""
+
+#: $lang['pm_log_in_for_my_videos']
+msgid "Login to access your videos."
+msgstr ""
+
+#: $lang['pm_choose_from_stock_videos']
+msgid "Choose from thousands of stock videos."
+msgstr ""
+
+#: $lang['pm_move_video']
+msgid "Move Video"
+msgstr ""
+
+#: $lang['pm_move_videos']
+msgid "Move Videos"
+msgstr ""
+
+#: $lang['pm_add_video']
+msgid "Add Video"
+msgstr ""
+
+#: $lang['pm_add_videos']
+msgid "Add Videos"
+msgstr ""
+
+#: $lang['pm_video_stock_getty_desc']
+msgid "Downloads with Getty Videos have a watermark on free download"
+msgstr ""
+
+#: $lang['pm_video_stock_getty_license']
+msgid "All videos under Getty Premium Stock license"
+msgstr ""
+
+#: $lang['pm_search_stock_videos']
+msgid "Search Stock Videos"
+msgstr ""
+
+#: $lang['pm_play']
+msgid "play"
+msgstr ""
+
+#: $lang['pm_pause']
+msgid "pause"
+msgstr ""
+
+#. /******************** NEEDS TRANSLATION **************************/
+#: $lang['pm_icons']
+msgid "Icons:"
+msgstr ""
+
+#: $lang['pm_sizes']
+msgid "Sizes"
+msgstr ""
+
+#: $lang['pm_add_ons']
+msgid "Add-ons"
+msgstr ""
+
+#: $lang['pm_width_capitalized']
+msgid "Width"
+msgstr ""
+
+#: $lang['pm_pick_video_type']
+msgid "Replace With Video From..."
+msgstr ""
+
+#: $lang['pm_stock_videos']
+msgid "Stock Videos"
+msgstr ""
+
+#: $lang['pm_video_limit']
+msgid "Video Limit Reached"
+msgstr ""
+
+#: $lang['pm_video_limit_message']
+msgid ""
+"For now, you can only have 1 video in a design. We are working on video "
+"playlists so sit tight.<br/><br/>Click replace if you want to replace the "
+"current video with this one."
+msgstr ""
+
+#: $lang['pm_video_duration_reached']
+msgid "Video Duration Reached"
+msgstr ""
+
+#: $lang['pm_video_duration_reached_message']
+msgid ""
+"You can't have video with more than 10 minute duration in a design. Click "
+"trim to trim it within the limit."
+msgstr ""
+
+#: $lang['pm_stretch']
+msgid "Stretch"
+msgstr ""
+
+#: $lang['pm_stretch_horizontally']
+msgid "Stretch to design width"
+msgstr ""
+
+#: $lang['pm_stretch_vertically']
+msgid "Stretch to design height"
+msgstr ""
+
+#: $lang['pm_centered']
+msgid "Centered"
+msgstr ""
+
+#: $lang['pm_classic']
+msgid "Classic"
+msgstr ""
+
+#: $lang['pm_classic_names_only']
+msgid "Classic (Names only)"
+msgstr ""
+
+#: $lang['pm_table_style']
+msgctxt "$lang['pm_table_style']"
+msgid "Table"
+msgstr ""
+
+#: $lang['pm_modern_style']
+msgid "Modern"
+msgstr ""
+
+#: $lang['pm_classic_without_dots']
+msgid "Classic (Without Dots)"
+msgstr ""
